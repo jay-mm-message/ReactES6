@@ -2,10 +2,10 @@ import React from 'react'
 
 class App extends React.Component {
     render() {
-        return (
+        return(
             <div>
                 <hi>
-                    今天開始學 React !
+                    開始 React ^_^ ya
                 </hi>
             </div>
         )
