@@ -30,6 +30,10 @@
   # node -v
   # npm -v
 
+# Install Yarn
+  # brew install yarn
+  # export PATH="$PATH: `yarn global bin`"
+  # yarn --version
 
 # Install Create-React-App Tool
   # sudo npm install -g create-react-app
