@@ -1,13 +1,11 @@
 import React from 'react'
 
-function App(props) {
-    return(
-        <div>
-            <hi>
-                開始 React ^_^ ya
-            </hi>
-        </div>
-    )
+const App = (props) => {
+    <div>
+        <hi>
+            開始 React ^_^ ya ( pure functoin ).
+        </hi>
+    </div>
 }
 
 export default App
